@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+
+* 👋 Hi, I'm Phillip
+* 👨‍💻 I’m currently working as a data scientist @ Synchrony
+* 🔭 I’m interested in modeling consumer behavior in both the product and fraud spaces
+* 📫 How to reach me: nyphilwong@gmail.com
 
 <!--
 **nyphilwong/nyphilwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
