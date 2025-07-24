@@ -5,8 +5,6 @@
 * 🌱 I’m currently learning to build and play around with everything
 * 📫 How to reach me: nyphilwong@gmail.com
 * 😄 Pronouns: he/him
-
-Check out my website @ [phillip-wong.com](phillip-wong.com)
 <!--
 **nyphilwong/nyphilwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
