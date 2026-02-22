@@ -1,10 +1,8 @@
 ### 
 * 👋 Hi, I'm Phillip
-* 👨‍💻 I’m currently working as a senior data analyst @ IAS
-* 🔭 I’m interested in solving both complex and modern problems in fraud landscape
-* 🌱 I’m currently learning to build and play around with everything
-* 📫 How to reach me: nyphilwong@gmail.com
-* 😄 Pronouns: he/him
+* 👨‍💻 I work at the intersection of DS + DE
+* 🌱 Currently building some random projects
+* 📫 Checkme out @ [phillip-wong.com]
 <!--
 **nyphilwong/nyphilwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
