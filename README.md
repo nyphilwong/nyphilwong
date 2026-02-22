@@ -2,7 +2,7 @@
 * 👋 Hi, I'm Phillip
 * 👨‍💻 I work at the intersection of DS + DE
 * 🌱 Currently building some random projects
-* 📫 Checkme out @ [phillip-wong.com]
+* 📫 Checkme out @ [phillip-wong.com](phillip-wong.com)
 <!--
 **nyphilwong/nyphilwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
